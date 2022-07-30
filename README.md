@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Stephen Jacobs and I am a software and cloud engineer with nearly a decade of experience in the software development industry. I am looking to improve my presence on GitHub by beginning my journey of open source contributions. I am proficient in JavaScript, TypeScript, React, node.js, C#, .NET and am in the process of learning more about Pythong and Go.
+My name is Stephen Jacobs and I am a software and cloud engineer with nearly a decade of experience in the software development industry. I am looking to improve my presence on GitHub by beginning my journey of open source contributions. I am proficient in JavaScript, TypeScript, React, node.js, C#, .NET and am in the process of learning more about DevOps, Cloud Engineering, Python, Go.
 
 - 🔭 I’m currently working on being an active contributor to the exciting and revolutionary web3 platform for @MatricaLabs.
 - 🌱 I’m currently learning terraform, cloud infrastructure, kubernetes, golang and API development.
