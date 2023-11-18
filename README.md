@@ -20,9 +20,6 @@ I'm Stephen Jacobs, a passionate Software and Cloud Engineer with a rich journey
 
 Let's embark on this tech journey together! Feel free to reach out, collaborate, or just say hi!
 
---- 
-
-This version is designed to be engaging, highlights your skills and experiences, and reflects your enthusiasm for continuous learning and community involvement.
 
 - 🔭 I’m currently working on being an active contributor to the exciting and revolutionary web3 platform for @MatricaLabs.
 - 🌱 I’m currently learning terraform, cloud infrastructure, kubernetes, golang and API development.
